@@ -1,3 +1,5 @@
+# MY CUSTOM FILE
+
 # dynatrace Module
 
 This Puppet module installs and configures the Dynatrace Application Monitoring solution.
